@@ -6,13 +6,24 @@ weight: 3
 ---
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+
+<style>
+
+.grey-link{
+  color:darkgray;
+}
+.grey-link:hover{
+  color:orange;
+}
+</style>
+
 # **About Me**
-<font size="5">
+<font  size="4">
 <b>Greetings!</b>
 </font>
 
-My name is Martin Uribe Hernandez, a programmer from small town Hollister, California. \n
-
+My name is Martin Uribe Hernandez, a programmer from small town Hollister, California. I graduated from UCSC with a Bachelor of Science in 
+<a class="grey-link" href="https://catalog.ucsc.edu/current/general-catalog/academic-units/baskin-engineering/computer-science-and-engineering/computer-science-bs"> Computer Science</a>
 
 
 <!-- Tools I have experience with -->
