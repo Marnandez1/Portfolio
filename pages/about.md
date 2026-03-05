@@ -47,6 +47,7 @@ My name is Martin Uribe Hernandez, a programmer from small town Hollister, Calif
     <div class="tech">
         <h2>Back-End</h2>
         <i class="devicon-typescript-plain colored"></i>
+        <i class="devicon-postgresql-plain-wordmarked colored"></i>
     </div>
         <div class="tech">
         <h2>Game Development</h2>

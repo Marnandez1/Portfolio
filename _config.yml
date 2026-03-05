@@ -21,7 +21,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Martin Uribe Hernandez
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : ./assets/img/ProfileImage.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : hernandezmartin0489@gmail.com
@@ -43,15 +43,12 @@ author:
 # keybase           : your_username
 
 
-### Posts ###
-permalink: /blog/:title
-
-
 ### Collections ###
 collections:
   projects:
     output: true
     permalink: /projects/:name
+    
 
 
 ### Disqus ###
