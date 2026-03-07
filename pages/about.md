@@ -29,7 +29,7 @@ Any questions? Let me help! Please reach out to  <b>hernandezmartin0489@hotmail.
 
 
 <!-- Tools I have experience with -->
-<div class=user">
+<div class="user">
     <div class="tech">
         <h2>Languages</h2>
         <i class="devicon-python-plain colored"></i>
