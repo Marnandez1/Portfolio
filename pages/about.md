@@ -23,13 +23,13 @@ weight: 3
 </font>
 
 My name is Martin Uribe Hernandez, a programmer from small town Hollister, California. I graduated from UCSC with a Bachelor of Science in 
-<a class="grey-link" href="https://catalog.ucsc.edu/current/general-catalog/academic-units/baskin-engineering/computer-science-and-engineering/computer-science-bs"> Computer Science</a>. <br>
+<a class="grey-link" href="https://catalog.ucsc.edu/current/general-catalog/academic-units/baskin-engineering/computer-science-and-engineering/computer-science-bs"> Computer Science</a>. In my free time, I am developing a game under a small independent video game studio; *Dropped Mustard Games*; as the sole game programmer. I am interested work, experience or any opportunities to collaborate with a team within this field.<br>
 
 Any questions? Let me help! Please reach out to  <b>hernandezmartin0489@hotmail.com </b>
 
 
 <!-- Tools I have experience with -->
-<div class="user">
+<div class=user">
     <div class="tech">
         <h2>Languages</h2>
         <i class="devicon-python-plain colored"></i>
