@@ -37,7 +37,7 @@ Any questions? Let me help! Please reach out to  <b>hernandezmartin0489@hotmail.
         <i class="devicon-javascript-plain colored"></i>
         <i class="devicon-kotlin-plain colored"></i>
         <i class="devicon-swift-plain colored"></i>
-        <p> My favorite programming languages I have the most experience with for software programming</p>
+        <p> My favorite programming languages. I am most familar with these but open to try new ones!</p>
     </div>
     <div class="tech">
         <h2>Front-End</h2>
