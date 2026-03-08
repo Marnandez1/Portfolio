@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 2
 ---
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
@@ -89,7 +89,7 @@ Any questions? Let me help! Please reach out to  <b>hernandezmartin0489@hotmail.
         <p> Technologies and programming languages I am familiar and comfortable with for back-end development</p>
     </div>
         <div class="tech">
-        <h2>Game Programming</h2>
+        <h2>Video Game Programming</h2>
         <i class="devicon-unity-plain colored"></i>
         <i class="devicon-blender-original colored"></i>
         <i class="devicon-csharp-plain colored"></i>
