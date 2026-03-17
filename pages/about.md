@@ -49,18 +49,26 @@ weight: 2
     margin: 5px auto
 }
 
-
 </style>
 
-# **About Me**
-<font  size="4">
+<div class="row p-8">
+  <div class="col-lg-6 col-md-6 mt-4">
+  <font size = 8> <b>About Me <br> <br> </b> </font>
+  <font  size="5">
 <b>Greetings!</b>
 </font>
+  <p><br> My name is Martin Uribe Hernandez, a programmer from small town Hollister, California. I graduated from UCSC with a Bachelor of Science in 
+<a class="grey-link" href="https://catalog.ucsc.edu/current/general-catalog/academic-units/baskin-engineering/computer-science-and-engineering/computer-science-bs"> Computer Science</a>. In my free time, I am developing a game under a small independent video game studio, <i> Dropped Mustard Games</i>, as the sole game programmer. <br>
 
-My name is Martin Uribe Hernandez, a programmer from small town Hollister, California. I graduated from UCSC with a Bachelor of Science in 
-<a class="grey-link" href="https://catalog.ucsc.edu/current/general-catalog/academic-units/baskin-engineering/computer-science-and-engineering/computer-science-bs"> Computer Science</a>. In my free time, I am developing a game under a small independent video game studio, *Dropped Mustard Games*, as the sole game programmer. <br>
+I am interested in work, experience or any opportunities to collaborate with a team within this field.<br></p>
+</div>
 
-I am interested in work, experience or any opportunities to collaborate with a team within this field.<br>
+  <div class="col-lg-6 col-md-6 mt-4">
+    <div id="container" class="my-2">
+        <img src="../assets/img/AboutMeImage.jpg" style="float:right">
+      </div>
+  </div>
+</div>
 
 
 <!-- Tools I have experience with -->
