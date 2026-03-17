@@ -72,7 +72,7 @@ Any questions? Let me help! Please reach out to  <b>hernandezmartin0489@hotmail.
         <i class="devicon-javascript-plain colored"></i>
         <i class="devicon-kotlin-plain colored"></i>
         <i class="devicon-swift-plain colored"></i>
-        <p> My favorite programming languages. I am most familar with these but open to try new ones!</p>
+        <p> Programming languages with the most experience. </p>
     </div>
     <div class="tech">
         <h2>Front-End</h2>
@@ -80,13 +80,13 @@ Any questions? Let me help! Please reach out to  <b>hernandezmartin0489@hotmail.
         <i class="devicon-react-original colored"></i>
         <i class="devicon-html5-plain-wordmark colored"></i>
         <i class="devicon-css3-plain-wordmark colored"></i>
-        <p>Technologies and progrmaming languages I am familiar and comfortable with for front-end development</p>
+        <p>Technologies and progrmaming languages I am familiar with for front-end development</p>
     </div>
     <div class="tech">
         <h2>Back-End</h2>
         <i class="devicon-typescript-plain colored"></i>
         <i class="devicon-postgresql-plain-wordmark colored"></i>
-        <p> Technologies and programming languages I am familiar and comfortable with for back-end development</p>
+        <p> Technologies and programming languages I am familiar with for back-end development</p>
     </div>
         <div class="tech">
         <h2>Video Game Programming</h2>
@@ -101,7 +101,7 @@ Any questions? Let me help! Please reach out to  <b>hernandezmartin0489@hotmail.
         <i class="devicon-visualstudio-plain colored"></i>
         <i class="devicon-github-plain-wordmark colored"></i>
         <i class="devicon-figma-plain colored"></i>
-        <p> Tools for version control and code editing I am most comfortable with. </p>
+        <p> Tools for version control and code editing I have used. </p>
     </div>
 </div>
 
