@@ -62,21 +62,22 @@ textarea.body{
     <div class="row p-3" style="display:flex;flex-direction:row;">
         <div style="display:flex;flex-direction:column;">
             <label>First Name </label>
-            <input class="name" type="text" id="firstname" name="firstname" />
+            <input class="name" type="text" id="firstname" name="firstname" required/>
         </div>
         <div class="" style="width:30px"></div>
         <div class="" style="display:flex;flex-direction:column;">
             <label>Last Name </label>
-            <input class="name" type="text" id="lastname" name="lastname"/>
+            <input class="name" type="text" id="lastname" name="lastname" required />
         </div>
     </div>
     <div class="row  p-3" style="display:flex;flex-direction:column;">
         <label for="email">Email</label>
-        <input class="email" type="text" id="email" name="email"/>
+        <input class="email" type="text" id="email" name="email" required/>
     </div>
         <div class="row p-3" style="display:flex;flex-direction:column;">
         <label for="body">Body</label>
-        <textarea class="body" type="text" id="body" name="body" style="height:200px;"></textarea>
+        <textarea class="body" type="text" id="body" name="body" style="height:200px;" required></textarea>
     </div>
+    <button type="button" class="btn btn-secondary">SEND</button>
   </div>
 </div>
