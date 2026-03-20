@@ -98,7 +98,7 @@ I am interested in work, experience or any opportunities to collaborate with a t
         <i class="devicon-firebase-plain-wordmark colored"></i>
     </div>
         <div class="tech">
-        <h2 style="white-space:nowrap;">Video Game Programming</h2>
+        <h2>Video Game Programming</h2>
         <i class="devicon-unity-plain colored"></i>
         <i class="devicon-blender-original colored"></i>
         <i class="devicon-csharp-plain colored"></i>
