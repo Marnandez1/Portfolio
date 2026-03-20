@@ -12,16 +12,15 @@ weight: 2
 .grey-link{
   color:darkgray;
 }
-.grey-link:hover{
-  color:orange;
-}
 
 .tech{
-    margin: 10px
+    margin: 10px;
+    justify-content:center;
 }
 
 .user{
     text-align: center;
+        justify-content:center;
     font-size: 45px;
     display: flex;
     flex-direction: row;
@@ -85,7 +84,7 @@ I am interested in work, experience or any opportunities to collaborate with a t
         <i class="devicon-kotlin-plain colored"></i>
     </div>
     <div class="tech">
-        <h2 style="white-space:nowrap;">Front-End</h2>
+        <h2>Front-End</h2>
         <i class="devicon-flutter-plain colored"></i>
         <i class="devicon-react-original colored"></i>
         <i class="devicon-html5-plain-wordmark colored"></i>
@@ -104,7 +103,7 @@ I am interested in work, experience or any opportunities to collaborate with a t
         <i class="devicon-csharp-plain colored"></i>
     </div>
         <div class="tech">
-        <h2 style="white-space:nowrap;">Tools</h2>
+        <h2>Tools</h2>
         <i class="devicon-git-plain-wordmark colored"></i>
         <i class="devicon-visualstudio-plain colored"></i>
         <i class="devicon-github-plain-wordmark colored"></i>
