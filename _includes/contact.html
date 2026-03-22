@@ -59,7 +59,8 @@ textarea.body{
     <p class=""> Any questions? Let me help! Please reach out to  <b>hernandezmartin0489@hotmail.com </b></p>
   </div>
   <div class="col-lg-6 col-md-6  mt-4">
-    <div class="row p-3" style="display:flex;flex-direction:row;">
+    <form action="https://formspree.io/f/xreyvkal" method="post">
+        <div class="row p-3" style="display:flex;flex-direction:row;">
         <div style="display:flex;flex-direction:column;">
             <label>First Name </label>
             <input class="name" type="text" id="firstname" name="firstname" required/>
@@ -78,6 +79,8 @@ textarea.body{
         <label for="body">Body</label>
         <textarea class="body" type="text" id="body" name="body" style="height:200px;" required></textarea>
     </div>
-    <button type="button" class="btn btn-secondary">SEND</button>
+    <!-- <button type="button" class="btn btn-secondary" value="Submit">SEND</button> -->
+     <input class="btn btn-secondary" type="submit" value="Submit"/>
+    </form>
   </div>
 </div>
