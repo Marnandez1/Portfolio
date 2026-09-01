@@ -94,6 +94,7 @@ I am interested in work, experience or any opportunities to collaborate with a t
         <h2 style="white-space:nowrap;">Back-End</h2>
         <i class="devicon-typescript-plain colored"></i>
         <i class="devicon-postgresql-plain-wordmark colored"></i>
+        <i class="devicon-nodejs-plain-wordmark colored"></i>
         <i class="devicon-firebase-plain-wordmark colored"></i>
     </div>
         <div class="tech">
